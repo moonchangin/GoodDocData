@@ -20,13 +20,13 @@
 
 ## Results *: What did we observe? Figures are great!*
 
-## Conclusion/Discussion: How do our results fit into the context of the problem? What are the limitations of what we did and what are the next rational steps? 
+## Conclusion/Discussion: *How do our results fit into the context of the problem? What are the limitations of what we did and what are the next rational steps?* 
 
-## Reproduction: How to reproduce the findings! 
+## Reproduction: *How to reproduce the findings!*
 
 ### Docker
 
-The Docker image contains <R/jupyter> notebooks of all analyses and the dependencies to run them. *Be sure to note if you need any special credentials to access data for these analyses, **don't package restricted data** in your containers!*
+*The Docker image contains <R/jupyter> notebooks of all analyses and the dependencies to run them. *Be sure to note if you need any special credentials to access data for these analyses, **don't package restricted data** in your containers!*
 
 Instructions for running the following notebooks: *be sure to adjust these instructions as necessary! check out https://github.com/Sage-Bionetworks/nf-hackathon-2019 for example containers and instructions*
 

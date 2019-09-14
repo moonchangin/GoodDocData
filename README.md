@@ -4,7 +4,7 @@
 
 *instructions in italics can be deleted as sections are filled in*
 
-*most fields are optional, last 4 are not*
+*most fields are optional, Conclusion and Important Resources are required*
 
 ## Please cite our work -- here is the ICMJE Standard Citation:
 

@@ -4,6 +4,8 @@
 
 *instructions in italics can be deleted as sections are filled in*
 
+*most fields are optional, last 4 are not*
+
 ## Please cite our work -- here is the ICMJE Standard Citation:
 
 ### ...and a link to the DOI: *You can make a free DOI with zenodo, synapse, figshare, or other resources <link>*
@@ -20,7 +22,17 @@
 
 ## Results *: What did we observe? Figures are great!*
 
-## Conclusion/Discussion: *How do our results fit into the context of the problem? What are the limitations of what we did and what are the next rational steps?* 
+## Conclusion/Discussion: 
+
+### Please make sure you address ALL of the following:
+
+#### *1. What additional data would you like to have*
+
+#### *2. What are the next rational steps?* 
+
+#### *3. What additional tools or pipelines will be needed for those steps?*
+
+#### *4. What skills would additional collaborators ideally have?*
 
 ## Reproduction: *How to reproduce the findings!*
 

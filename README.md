@@ -16,10 +16,13 @@ We compared the gene expression profile between 6 plexiform neurofibroma and 6 M
 We overlaid protein-protein interaction networks to connect genes with extreme burdens of genetic mutations and genes with abnormal expression levels.
 ## Results *: What did we observe? Figures are great!*
 ![distance-based](https://github.com/moonchangin/nullfuction/blob/master/alex-fig.png)
+
 Due to limited time, we decided to use a novel distance-based method to have a quick sense of the data. All RNASeq gene expression profiles were converted into Pearson distance and visualized in a 2-D plain. In this way, we can quickly get an overall impression of the data and see if there are some obvious outliers need to be removed.
 ![Heatmap](https://github.com/moonchangin/nullfuction/blob/master/Heat%20map%20(1).png)
+
 Differential gene expression analysis from plexiform neurofibromas and MPNST patients. We did a hierarchical clustering based on gene counts. The heatmap shows a group of genes that highly expressed for a group of MPNST.
 ![PN_network](https://github.com/moonchangin/nullfuction/blob/master/PN_network.png)
+
 We identified additional candidate “driver” genes, such as ATM in plexiform neurofibroma and EP300 in MPNST, and our results suggest that cilium function is associate with the progress of neurofibroma. These results were confirmed in an independent dataset through personal communications.
 
 ## Conclusion/Discussion: 

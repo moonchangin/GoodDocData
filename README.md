@@ -22,6 +22,8 @@
 ## Methods *: How did we go about solving it?*
 
 ## Results *: What did we observe? Figures are great!*
+![Heatmap](https://github.com/moonchangin/nullfuction/blob/master/Heat%20map%20(1).png)
+![PN_network](https://github.com/moonchangin/nullfuction/blob/master/PN_network.png)
 
 ## Conclusion/Discussion: 
 

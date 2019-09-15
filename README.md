@@ -11,7 +11,7 @@
 ### ...and a link to the DOI: *You can make a free DOI with zenodo, synapse, figshare, or other resources <link>*
 
 ## Awesome Logo *(if applicable)*
-![NF2019logo](https://github.com/moonchangin/GoodDocData/blob/master/CTF_LOGO.png)
+![Nullfunctionlogo](https://github.com/moonchangin/nullfuction/blob/master/Image%20from%20iOS.jpg)
 
 ## Website *(if applicable)*
 
@@ -24,6 +24,7 @@
 ## Results *: What did we observe? Figures are great!*
 ![Heatmap](https://github.com/moonchangin/nullfuction/blob/master/Heat%20map%20(1).png)
 ![PN_network](https://github.com/moonchangin/nullfuction/blob/master/PN_network.png)
+![distance-based](https://github.com/moonchangin/nullfuction/blob/master/alex-fig.png)
 
 ## Conclusion/Discussion: 
 

@@ -1,6 +1,9 @@
 ## TEAM NULLFUNTION 
 ![Nullfunctionlogo](https://github.com/moonchangin/nullfuction/blob/master/Image%20from%20iOS.jpg)
 
+## Presented Work @ CTF NF Conference
+![CTF_NF_CONF](https://github.com/moonchangin/nullfuction/blob/master/CTF_LOGO.png)
+
 ## Abstract *: Summarize everything in a few sentences.*
 ![IntroImage](https://github.com/moonchangin/nullfuction/blob/master/introduction.PNG)
 Neurofibromatosis types I (NF1) an autosomal dominant genetic disorder due to mutation in NF1 gene. The clinical manifestations are diverse, and 10-13% of patients develop malignant peripheral neural sheath tumor (MPNST). However, the genetic basis for phenotypic diversity is poorly understood. In our study, we used an integrative analysis on single nucleotide variations (SNVs) and gene expression dysregulation, to characterize the genetic landscape of additional disruptions in plexiform neurofibroma and MPNST. In particular, we aimed to understand the mechanisms that lead to the progress from plexiform neurofibroma towards MPNST.

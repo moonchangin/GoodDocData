@@ -6,9 +6,20 @@
 
 ## Abstract *: Summarize everything in a few sentences.*
 ![IntroImage](https://github.com/moonchangin/nullfuction/blob/master/introduction.PNG)
-Neurofibromatosis types I (NF1) an autosomal dominant genetic disorder due to mutation in NF1 gene. The clinical manifestations are diverse, and 10-13% of patients develop malignant peripheral neural sheath tumor (MPNST). However, the genetic basis for phenotypic diversity is poorly understood. In our study, we used an integrative analysis on single nucleotide variations (SNVs) and gene expression dysregulation, to characterize the genetic landscape of additional disruptions in plexiform neurofibroma (PN) and MPNST.
+Neurofibromatosis types I (NF1) an autosomal dominant genetic disorder due to mutation in NF1 gene. The clinical manifestations are diverse, and 8-13% of patients develop malignant peripheral neural sheath tumor (MPNST). However, the genetic basis for phenotypic diversity is poorly understood. In our study, we used an integrative analysis on single nucleotide variations (SNVs) and gene expression dysregulation, to characterize the genetic landscape of additional disruptions in plexiform neurofibroma (PN) and MPNST.
 ## Introduction *: What's the problem? Why should we solve it?*
-One of the most common cancers affecting adults with neurofibromatosis type 1 (NF1) is the malignant peripheral nerve sheath tumor (MPNST), a highly aggressive tumor. Sadly, for those individuals with NF1 who develop these cancers, there are limited treatment options, and the vast majority of people with these malignancies will die within 5 years of diagnosis. Over the past decade, research has revealed that NF1-MPNSTs represent a group of diverse cancer types, characterized by different genetic changes. 
+#### Neurofibromatosis type 1
+Neurofibromatosis type 1 (NF1) is one of the most common inherited tumor predisposition syndromes, affecting 1:2500-3000 individuals worldwide.[1, 2] As such, affected individuals begin life with one inactivated (germline mutation) copy and one functional copy of the NF1 gene in every cell in their body.[3, 4] The presence of this germline mutation increases the risk of tumor formation, which requires only somatic loss of the remaining functional NF1 gene[5].  
+
+#### Malignant peripheral nerve sheath tumors (MPNSTs). 
+MPNSTs are clinically-aggressive sarcomas,[6] arising in individuals with NF1 at an estimated frequency of 8-13%[7]. Composed of neoplastic Schwann cells, these cancers recur in ~50% of individuals, and most people die within five years of diagnosis, despite surgical resection, radiation and chemotherapy.[8-10] 
+
+#### Plexiform neurofibromas (PN). 
+Plexiform neurofibromas are strongly related to NF1, affecting 20% to 40% of patients suffering from this condition.[11, 12] These tumors often occur in the head, skull base, or neck but also manifest themselves on the trunk and limbs. Plexiform neurofibromas have the potential to transform into MPNST. However, not all MPNST develop from pre-existing neurofibromas, as approximately half of all MPNST arise sporadically without a known precursor.[13]
+
+##### Molecular pathogenesis of NF1-MPNSTs. 
+NF1 gene inactivation and loss of NF1 protein (neurofibromin) expression characterize the majority of NF1-MPNSTs.[14] While NF1 loss is necessary for MPNST development, it is not sufficient for malignant transformation. This conclusion is supported by numerous genetically-engineered mouse studies, demonstrating that conditional Nf1 gene inactivation in Schwann cell precursors results in benign plexiform neurofibroma formation only,[15-17] whereas murine MPNST formation requires the co-existence of additional genetic mutations. In both mouse and human MPNSTs, alterations in the TP53, CDKN2A, and EGFR genes have been reported as cooperating secondary genetic alterations that facilitate MPNST development.[15-18] Efforts to identify the full spectrum of cooperating genetic changes important for MPNST pathogenesis have employed many different discovery techniques [19-23]; however, few of the identified genes were shared across studies, and none were accurate predictors of disease pathogenesis or effective in clinical trials. 
+
 ## Methods *: How did we go about solving it?*
 1)    SNV analysis
 We first characterized the burden of deleterious single SNVs in 14 plexiform neurofibroma samples and 10 MPNST samples. The SNVs were selected for 1) population allele frequency < 0.5%, 2) SIFT score < 0.05 and 3) shared among <5 samples. We then defined the burden of a gene as the percentage of subjects that carried at least one the deleterious mutation.
@@ -48,6 +59,30 @@ A collaborative effort from specialists in genomics, clinicians, and biostatisti
 ## NF Hacakthon 2019
 ![NF_HACK_IMAGE](https://github.com/moonchangin/nullfuction/blob/master/EEX0kSrXkAER0rX.jpg)
 https://sv.ai/neurofibromatosis
+
+## Reference
+1.	Huson, S.M., P.S. Harper, and D.A. Compston, Von Recklinghausen neurofibromatosis. A clinical and population study in south-east Wales. Brain, 1988. 111 ( Pt 6): p. 1355-81.
+2.	Lammert, M., et al., Prevalence of neurofibromatosis 1 in German children at elementary school enrollment. Arch Dermatol, 2005. 141(1): p. 71-4.
+3.	Gutmann, D.H., et al., Neurofibromatosis type 1: modeling CNS dysfunction. J Neurosci, 2012. 32(41): p. 14087-93.
+4.	Ferner, R.E., et al., Guidelines for the diagnosis and management of individuals with neurofibromatosis 1. J Med Genet, 2007. 44(2): p. 81-8.
+5.	Arun, D. and D.H. Gutmann, Recent advances in neurofibromatosis type 1. Curr Opin Neurol, 2004. 17(2): p. 101-5.
+6.	Ferner, R.E. and D.H. Gutmann, International consensus statement on malignant peripheral nerve sheath tumors in neurofibromatosis. Cancer Res, 2002. 62(5): p. 1573-7.
+7.	Evans, D.G., et al., Malignant peripheral nerve sheath tumours in neurofibromatosis 1. J Med Genet, 2002. 39(5): p. 311-4.
+8.	Hruban, R.H., et al., Malignant peripheral nerve sheath tumors of the buttock and lower extremity. A study of 43 cases. Cancer, 1990. 66(6): p. 1253-65.
+9.	Kourea, H.P., et al., Subdiaphragmatic and intrathoracic paraspinal malignant peripheral nerve sheath tumors: a clinicopathologic study of 25 patients and 26 tumors. Cancer, 1998. 82(11): p. 2191-203.
+10.	Wong, W.W., et al., Malignant peripheral nerve sheath tumor: analysis of treatment outcome. Int J Radiat Oncol Biol Phys, 1998. 42(2): p. 351-60.
+11.	Reuss, D.E., et al., Neurofibromin specific antibody differentiates malignant peripheral nerve sheath tumors (MPNST) from other spindle cell neoplasms. Acta Neuropathol, 2014. 127(4): p. 565-72.
+12.	Yang, F.C., et al., Nf1-dependent tumors require a microenvironment containing Nf1+/-- and c-kit-dependent bone marrow. Cell, 2008. 135(3): p. 437-48.
+13.	Zheng, H., et al., Induction of abnormal proliferation by nonmyelinating schwann cells triggers neurofibroma formation. Cancer Cell, 2008. 13(2): p. 117-28.
+14.	Zhu, Y., et al., Neurofibromas in NF1: Schwann cell origin and role of tumor environment. Science, 2002. 296(5569): p. 920-2.
+15.	Cichowski, K., et al., Mouse models of tumor development in neurofibromatosis type 1. Science, 1999. 286(5447): p. 2172-6.
+16.	Legius, E., et al., TP53 mutations are frequent in malignant NF1 tumors. Genes Chromosomes Cancer, 1994. 10(4): p. 250-5.
+17.	Perry, A., et al., Differential NF1, p16, and EGFR patterns by interphase cytogenetics (FISH) in malignant peripheral nerve sheath tumor (MPNST) and morphologically similar spindle cell neoplasms. J Neuropathol Exp Neurol, 2002. 61(8): p. 702-9.
+18.	Wu, J., et al., EGFR-STAT3 signaling promotes formation of malignant peripheral nerve sheath tumors. Oncogene, 2014. 33(2): p. 173-80.
+19.	Miller, S.J., et al., Large-scale molecular comparison of human schwann cells to malignant peripheral nerve sheath tumor cell lines and tissues. Cancer Res, 2006. 66(5): p. 2584-91.
+20.	Watson, M.A., et al., Gene expression profiling reveals unique molecular subtypes of Neurofibromatosis Type I-associated and sporadic malignant peripheral nerve sheath tumors. Brain Pathol, 2004. 14(3): p. 297-303.
+21.	Yu, J., et al., Array-based comparative genomic hybridization identifies CDK4 and FOXM1 alterations as independent predictors of survival in malignant peripheral nerve sheath tumor. Clin Cancer Res, 2011. 17(7): p. 1924-34.
+22.	Holtkamp, N., et al., Differentially expressed genes in neurofibromatosis 1-associated neurofibromas and malignant peripheral nerve sheath tumors. Acta Neuropathol, 2004. 107(2): p. 159-68.
 
 ## Reproduction: *How to reproduce the findings!*
 

@@ -1,7 +1,7 @@
 ## TEAM NULLFUNTION 
 ![Nullfunctionlogo](https://github.com/moonchangin/nullfuction/blob/master/Image%20from%20iOS.jpg)
 
-## Presented Work @ CTF NF Conference
+## Presented Work @ CTF NF Conference 2019
 ![CTF_NF_CONF](https://github.com/moonchangin/nullfuction/blob/master/CTF_LOGO.png)
 
 ## Abstract *: Summarize everything in a few sentences.*
@@ -13,19 +13,21 @@ One of the most common cancers affecting adults with neurofibromatosis type 1 (N
 1)    SNV analysis
 We first characterized the burden of deleterious single SNVs in 14 plexiform neurofibroma samples and 10 MPNST samples. The SNVs were selected for 1) population allele frequency < 0.5%, 2) SIFT score < 0.05 and 3) shared among <5 samples. We then defined the burden of a gene as the percentage of subjects that carried at least one the deleterious mutation.
 2)    Gene expression analysis
-We compared the gene expression profile between 6 plexiform neurofibroma and 6 MPNST tumor tissue. We characterized genes with differential expression and defined the functional pathways with significant enrichment.
+We compared the gene expression profile between 6 plexiform neurofibromas and 6 MPNST tumor tissue. We characterized genes with differential expression and defined the functional pathways with significant enrichment.
 3)    Integrative analysis
 We overlaid protein-protein interaction networks to connect genes with extreme burdens of genetic mutations and genes with abnormal expression levels.
 ## Results *: What did we observe? Figures are great!*
 ![distance-based](https://github.com/moonchangin/nullfuction/blob/master/alex-fig.png)
 
 Due to limited time, we decided to use a novel distance-based method to have a quick sense of the data. All RNASeq gene expression profiles were converted into Pearson distance and visualized in a 2-D plain. In this way, we can quickly get an overall impression of the data and see if there are some obvious outliers need to be removed.
+
 ![Heatmap](https://github.com/moonchangin/nullfuction/blob/master/Heat%20map%20(1).png)
 
 Differential gene expression analysis from plexiform neurofibromas and MPNST patients. We did a hierarchical clustering based on gene counts. The heatmap shows a group of genes that highly expressed for a group of MPNST.
+
 ![PN_network](https://github.com/moonchangin/nullfuction/blob/master/PN_network.png)
 
-We identified additional candidate “driver” genes, such as ATM in plexiform neurofibroma and EP300 in MPNST, and our results suggest that cilium function is associate with the progress of neurofibroma. These results were confirmed in an independent dataset through personal communications.
+We identified additional candidate “driver” genes, such as ATM in plexiform neurofibroma and EP300 in MPNST, and our results suggest that cilium function is associated with the progress of neurofibroma. These results were confirmed in an independent dataset through personal communications.
 
 ## Conclusion/Discussion: 
 The phenotypic diversity within NF1 is likely due to additional mutations. With the integration of multidiscipline analysis from DNA sequencing, RNA sequencing, as well as the previous knowledge about the gene interactions, we can identify new target genes for further drug discoveries.
